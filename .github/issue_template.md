@@ -11,5 +11,5 @@ Try to be clear about your environment and what you are doing. If possible, shar
 System configuration
 Attach details about your OS and about JtR, including:
 
-$ ./john --list=build-info.
-$ ./john --list=opencl-devices (if applicable).
+     $ ./john --list=build-info.
+     $ ./john --list=opencl-devices (if applicable).
