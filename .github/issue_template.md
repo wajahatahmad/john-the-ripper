@@ -1,6 +1,7 @@
 # IMPORTANT
 This is not a support forum, it's a bug tracker. If you don't understand the difference, please do NOT open an issue. For questions and support, review recent postings on the john-users mailing list at https://www.openwall.com/lists/john-users/ and then subscribe to the list at https://www.openwall.com/john/#lists and post your message to the list by e-mailing 
-    john-user at lists.openwall.com.
+  
+     john-user at lists.openwall.com.
 
 We are not interested in bugs in your distro-supplied and/or several years old Jumbo. Please do not open an issue unless you tried the latest version from HERE first.
 
